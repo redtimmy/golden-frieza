@@ -4,6 +4,6 @@ Imagine finding yourself in a “hostile” environment, one where you can’t r
 
 To experiment with such an idea we have created the  “*golden frieza*” project. This repository contains some code examples working for ELF binaries. 
 
-The full explanation about golden frieza (premises and usage) can be found on our [blog](https://www.redtimmy.com/crypto/blue-team-vs-red-team-how-to-run-your-encrypted-binary-in-memory-and-go-undetected/).
+The full explanation about golden frieza (premises and usage) can be found on our [blog](https://www.redtimmy.com/red-teaming/blue-team-vs-red-team-how-to-run-your-encrypted-binary-in-memory-and-go-undetected/).
 
 Periodically this repository will be updated with new methods and techniques when available.
