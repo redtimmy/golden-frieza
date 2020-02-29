@@ -3,7 +3,7 @@
  * Coded by: Marco Ortisi - RedTimmy Security
  *
  * Compile with:
- * gcc golden_freiza_launcher_v1.c -o golden_freiza_launcher_v1 -ldl
+ * gcc golden_frieza_launcher_v1.c -o golden_frieza_launcher_v1 -ldl
  *
  * */
 #include <stdlib.h>
